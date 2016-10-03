@@ -1,5 +1,5 @@
-My personal AHS information
-- Naam: Liäm De Kegel
+### My personal AHS information
+>- Naam: Liäm De Kegel
 - Leeftijd: 20
 - Studie: Professionele backelor in de Grafische en Digitale Media
 - Afstuudeer richting: MultiMediaProductie - Pro'dev'
