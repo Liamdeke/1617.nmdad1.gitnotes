@@ -1,12 +1,12 @@
 ### My personal AHS information
 
-|                       |                                                             |
-| --------------------- | ----------------------------------------------------------- |
-| Naam:                 | Liäm De Kegel                                               |
-| Leeftijd:             | 20                                                          |
-| Studie:               | Professionele backelor in de Grafische en Digitale Media    |
-| Afstuudeer richting:  | MultiMediaProductie - Pro'dev'                              |
-| Campus:               | Mariakerke                                                  |
+|                        |                                                             |
+| ---------------------- | ----------------------------------------------------------- |
+| Naam:                  | Liäm De Kegel                                               |
+| Academiejaar:          | 2016-2017                                                   |
+| Afstudeer richting:    | MultiMediaProductie (MMP)                                   |
+| Specialisatie:         | Pro'DEV'                                                    |
+| Onderwijsinstellingen: | Artevelde hogeschool (campus Mariakerke)                    |
 
 
 Mappen
