@@ -4,6 +4,7 @@
 | ---------------------- | ----------------------------------------------------------- |
 | Naam:                  | Liäm De Kegel                                               |
 | Academiejaar:          | 2016-2017                                                   |
+| Opledingonderdeel      | New Media Design & Development                              |
 | Afstudeer richting:    | MultiMediaProductie (MMP)                                   |
 | Specialisatie:         | Pro'DEV'                                                    |
 | Onderwijsinstellingen: | Artevelde hogeschool (campus Mariakerke)                    |
